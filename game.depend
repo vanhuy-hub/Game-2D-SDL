@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1741612613 source:d:\game\baseobject.cpp
+	"baseObject.h"
+	"commonfunc.h"
+
+1741612599 d:\game\baseobject.h
+	"commonfunc.h"
+
+1741617682 d:\game\commonfunc.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	<vector>
+
+1741617911 source:d:\game\main.cpp
+	"commonfunc.h"
+	"baseObject.h"
+
+1741608752 source:d:\game\commonfunc.cpp
+	"commonfunc.h"
+
+1741617911 source:d:\game\mainobject.cpp
+
